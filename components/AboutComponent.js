@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Text, ScrollView, FlatList } from 'react-native';
 import { ListItem, Card } from 'react-native-elements';
-import PARTNERS from '../shared/partners';
+import { PARTNERS } from '../shared/partners';
 
 
 function Mission() {
